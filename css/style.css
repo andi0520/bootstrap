@@ -1,0 +1,96 @@
+@charset "utf-8";
+#navbarSupportedContent1 .form-inline.my-2.my-lg-0 .btn.btn-outline-success.my-2.my-sm-0 {
+    background-color: #FFFFFF;
+}
+.container-fluid .navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+.container-fluid {
+    padding-bottom: 0px;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #070707;
+    color: #FFFFFF;
+}
+#headingOne1 .mb-0 a {
+    color: #FFFFFF;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #000000;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #FFFFFF;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #000000;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #FFFFFF;
+}
+#accordion1 .card #headingThree2 {
+    background-color: #000000;
+}
+#headingThree2 .mb-0 .collapsed {
+    color: #FFFFFF;
+}
+.container-fluid .card.text-center.col-md-4.col-lg-12 .card-body {
+    background-color: #FFD1F9;
+}
+.container-fluid .card.text-center.col-md-4.col-lg-12 .card-header {
+    background-color: #FFFFFF;
+}
+.row .col-lg-3 .card.col-md-4.col-lg-12 {
+    background-color: #FFEEEE;
+}
+#hatstab1 strong em {
+    color: #0B0E26;
+}
+.nav-item #hatstab2 strong {
+    color: #0B0E26;
+}
+#clothingnav1 .nav-item #hatstab3 {
+    color: #0B0E26;
+}
+#hometab1 strong em {
+    color: #0B0E26;
+}
+.nav-link.dropdown-toggle strong em {
+    color: #0F1246;
+}
+.card.text-center.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #000000;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #000000;
+}
+.container-fluid .navbar.fixed-top.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    background-color: #000000;
+}
+.container-fluid .card.text-center.col-md-4.col-lg-12 .card-footer.text-muted {
+    background-color: #1E1839;
+}
+#clothingnav1 .nav-item #hometab1 {
+    background-color: #533677;
+}
+#hometab1 strong em {
+    color: #FFFFFF;
+}
+#clothingnav1 .nav-item #hatstab1 {
+    background-color: #000000;
+}
+#hatstab1 strong em {
+    color: #FFFFFF;
+}
+#clothingnav1 .nav-item #hatstab2 {
+    background-color: #533677;
+}
+.nav-item #hatstab2 strong {
+    color: #FFFFFF;
+}
+#clothingnav1 .nav-item #hatstab3 {
+    background-color: #000000;
+}
+#hatstab3 strong em {
+    color: #FFFFFF;
+}
